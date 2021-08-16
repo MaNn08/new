@@ -9,23 +9,11 @@ int main() {
     scanf("%d", &c);
     printf("Enter Fourth Number : ");
     scanf("%d", &d);
-	if(a%i==0)
-		a=1;
-	else
-		a=0;
-	if(b%i==0)
-		b=1;
-	else
-		b=0;
-	if(c%i==0)
-		c=1;
-	else
-		c=0;
-	if(d%i==0)
-		d=1;
-	else
-		d=0;
-	e=a+b+c+d ;
+	a=(a+1)%i;
+	b=(b+1)%i;
+	c=(c+1)%i;
+	d=(d+1)%i;
+	e=a+b+c+d;
     printf("How Many Even Numbers There Are : %d",e);
     return 0;
 }
