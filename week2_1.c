@@ -11,14 +11,18 @@ int main()
 	if(a>b)
 		if(b>c)
 			d=a+c;
+		else if(a<c)
+			d=b+c;
+		else if(b<c)
+			d=a+b;	
 		else
-			d=a+b;
-	if(b>c)
+			d=a+c;
+	else if(b>c)
 		if(c>a)
 			d=b+a;
 		else
 			d=b+c;
-	if(c>a)
+	else if(c>a)
 		if(a>b)
 			d=c+b;
 		else
