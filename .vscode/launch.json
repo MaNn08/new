@@ -2,6 +2,90 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch pro3_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab3.pro3_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro2_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab3.pro2_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro1_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab3.pro1_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro5_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab2.pro5_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro4_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab2.pro4_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro3_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab2.pro3_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro2_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab2.pro2_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro1_64011153",
+      "request": "launch",
+      "mainClass": "oop.lab2.pro1_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro4_64011153",
+      "request": "launch",
+      "mainClass": "oop.pro4_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro3_64011153",
+      "request": "launch",
+      "mainClass": "oop.pro3_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro2_64011153",
+      "request": "launch",
+      "mainClass": "oop.pro2_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro1_64011153",
+      "request": "launch",
+      "mainClass": "oop.pro1_64011153",
+      "projectName": "new-2_ac4aa7a0"
+    },
+    {
       "name": "(gdb) Attach",
       "type": "cppdbg",
       "request": "attach",
